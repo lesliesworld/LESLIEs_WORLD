@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+    <project>
+        <title>Moodboard Series</title>
+        <description>Digital collages capturing the aesthetics and emotions of my favorite romantic comedy and slice-of-life dramas using typography, color palettes, and imagery.</description>
+        <date>2026-01-15</date>
+    </project>
+
+    <project>
+        <title>Food Photography Portfolio</title>
+        <description>Smartphone photo collection documenting meals, snacks, and drinks, focusing on composition, lighting, and visual storytelling.</description>
+        <date>2026-04</date>
+    </project>
+    
+    <project>
+        <title>Visual Life Diary</title>
+        <description>Short video logs documenting daily life, personal reflections, creative explorations, and meaningful everyday moments.</description>
+        <date>2026-10</date>
+    </project>
+</projects>
